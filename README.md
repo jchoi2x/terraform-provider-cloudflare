@@ -1,5 +1,6 @@
 # Cloudflare Terraform Provider
 
+
 ## Requirements
 
 Terraform 1.2 or newer. We recommend running the [latest version](https://developer.hashicorp.com/terraform/downloads?product_intent=terraform) for optimal compatibility with the Cloudflare provider. Terraform versions older than 1.2 have known issues with newer features and internals.
